@@ -18,7 +18,6 @@ while True:
         statement_main.balance()
     if event == 4:
         statement_main.publication()
-        statement_main.balance()
     if event == 5:
         statement_main.cleen_statement()
     if event == 6:
